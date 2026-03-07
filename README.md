@@ -8,7 +8,7 @@ This project analyzes marketing campaign performance and its relationship with c
 The goal of the project is to transform raw business data into actionable insights that help the company optimize marketing spend, improve customer targeting, and increase overall revenue.
 
 
-# Business Problem
+## Business Problem
 
 An e-commerce company invests in multiple marketing campaigns but lacks clear visibility into how these campaigns influence sales performance and customer behavior.
 
@@ -25,7 +25,7 @@ The company wants to better understand:
 Management requires data-driven insights to optimize marketing strategy and allocate marketing budgets more effectively.
 
 
-# Project Objectives
+## Project Objectives
 
 The main objectives of this analysis are:
 
@@ -43,13 +43,98 @@ The main objectives of this analysis are:
 
 - Provide business recommendations for improving marketing effectiveness and revenue growth
 
+
 # Analysis Hypotheses
 
-# Dataset Overview
+## Dataset Overview
 
-# Project Structure
+The project uses four datasets representing key areas of an e-commerce business:
+
+### Customers
+
+Information about customer demographics and signup behavior.
+
+### Products
+
+Product catalog data including product categories, pricing, and suppliers.
+
+### Orders
+
+Transaction-level data describing customer purchases.
+
+### Campaigns
+
+Marketing campaign data including campaign type, budget, clicks, and conversions.
+
+The datasets contain **500 records each** and include information about:
+
+- customer locations and segments  
+- product categories and pricing  
+- order quantities and payment methods  
+- marketing campaign performance metrics  
+
+Key variables include:
+
+- Customer segment  
+- Product category  
+- Order quantity  
+- Order revenue  
+- Campaign type  
+- Campaign budget  
+- Clicks and conversions  
+
+Key observations:
+
+- Each dataset contains **500 rows**  
+- Multiple relational tables simulate a real business database structure  
+- Primary and foreign keys allow joins between tables  
+- Data types were consistent and suitable for analysis  
+- No missing values were detected during the preparation stage  
+
+
+## Project Structure
+
+```
+sales_analysis
+│
+├── Data
+│   └── campaings_data.csv
+|   └── customers_data.csv
+|   └── orders_data.csv
+|   └── products_data.csv
+│
+├── Notebooks
+│   └── analysis.ipynb
+│
+├── Visualization
+│   └── .png
+│   └── .png
+|   └── .png
+|   └── .png
+|   └── .png
+│
+├── requirments.txt
+|
+├── README.md
+|
+└── DATASET_README.md
+
+```
+
 
 # Tools & Technologies
+
+The analysis was conducted using the following tools:
+
+- Python 3.11  
+- Pandas – data manipulation and analysis  
+- NumPy – numerical operations  
+- Matplotlib – data visualization  
+- Seaborn – statistical visualization  
+- MySQL – relational database queries  
+- Google Sheets – data exploration and dashboarding  
+- VS Code & Jupyter Notebook
+  
 
 # Data Preparation
 
