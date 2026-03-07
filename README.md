@@ -9,3 +9,10 @@ Online retail company wants to understand how marketing campaigns influence sale
 
 The objective of this project is to analyze the relationship between marketing campaigns, customer behavior, and sales performance to help the company optimize marketing spend and increase revenue.
 
+## Contact
+
+Gmail: maria.ilnitska11@gmail.com
+
+LinkedIn: www.linkedin.com/in/maria-ilnitska
+
+Telegram: @mariailnitska
