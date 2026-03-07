@@ -138,6 +138,30 @@ The analysis was conducted using the following tools:
 
 ## Data Preparation
 
+Several preprocessing steps were performed to prepare the datasets for analysis.
+
+The `order_date` column was converted to datetime format to enable time-based analysis.
+
+Additional time-based features were created:
+
+- **Year** – order year  
+- **Month** – order month  
+- **Year_Month** – monthly period used for trend analysis  
+
+Datasets were joined using relational keys:
+
+- `customer_id` → linking customers and orders  
+- `product_id` → linking products and orders  
+
+This process enabled integrated analysis across customers, products, and transactions.
+
+Additional calculated fields were created, including:
+
+**Revenue = quantity × price**
+
+This metric was used to analyze product performance and sales trends.
+
+
 ## Sales Analysis
 
 ## Customer Analysis
