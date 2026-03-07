@@ -140,11 +140,11 @@ The analysis was conducted using the following tools:
 
 ## Sales Analysis
 
-# Customer Analysis
+## Customer Analysis
 
-# Campaign Performance
+## Campaign Performance
 
-# Conclusion
+## Conclusion
 
 ## Contact
 
