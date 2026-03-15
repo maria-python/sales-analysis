@@ -44,6 +44,19 @@ The main objectives of this analysis are to:
 
 ## Analysis Hypotheses
 
+The analysis was guided by several hypotheses:
+
+• A small number of product categories generate the majority of revenue.
+
+• Returning customers contribute significantly to overall sales.
+
+• Most customers place only a small number of orders.
+
+• Marketing channels differ in their conversion efficiency.
+
+• Revenue varies across geographic markets.
+
+
 ## Dataset Overview
 
 The project uses four datasets representing key areas of an e-commerce business:
@@ -71,7 +84,7 @@ The datasets contain **500 records each** and include information about:
 - order quantities and payment methods  
 - marketing campaign performance metrics  
 
-Key variables include:
+#### Key variables include:
 
 - Customer segment  
 - Product category  
@@ -81,7 +94,7 @@ Key variables include:
 - Campaign budget  
 - Clicks and conversions  
 
-Key observations:
+#### Key observations:
 
 - Each dataset contains **500 rows**  
 - Multiple relational tables simulate a real business database structure  
@@ -193,11 +206,47 @@ This structured preparation ensures a clean foundation for subsequent analysis o
 
 ## Sales Analysis
 
+The sales analysis reveals that revenue is concentrated within a small number of product categories. Categories such as Beauty and Clothing generate the highest revenue, indicating stronger customer demand in these segments.
+
+Additionally, a limited number of top-performing products contribute a significant share of overall sales, suggesting that focusing marketing efforts and inventory management on high-demand products could further increase revenue.
+
+Monthly sales trends show fluctuations in purchasing activity throughout the year, highlighting opportunities for targeted marketing campaigns during higher-demand periods.
+
+
 ## Customer Analysis
+
+Customer analysis shows that New and Returning customers generate the majority of total revenue, while the VIP segment contributes a smaller portion of overall sales.
+
+Purchase frequency analysis indicates that most customers place only one or two orders, suggesting that repeat purchasing behavior is relatively limited. This highlights an opportunity to increase revenue through improved customer retention strategies.
+
+Geographically, Germany, Australia, and the United States represent the strongest markets, contributing the largest share of revenue compared to other regions.
+
 
 ## Campaign Performance
 
-## Conclusion
+Marketing campaign analysis shows significant differences in conversion efficiency across campaign types.
+
+Google Ads and Social Media campaigns demonstrate the highest conversion rates, making them the most effective channels for converting users into customers.
+
+Other campaign types such as Email and Affiliate marketing show lower conversion performance, indicating potential opportunities for optimization in targeting strategies and campaign messaging.
+
+Budget and conversion comparisons also reveal that some channels produce higher conversions relative to their investment, highlighting differences in marketing efficiency.
+
+
+## Business Recommendations
+
+### Marketing
+Prioritize high-performing channels such as Google Ads and Social Media.
+
+### Customer Strategy
+Develop retention strategies to encourage repeat purchases.
+
+### Product Strategy
+Focus marketing efforts on top-performing product categories.
+
+### Market Expansion
+Strengthen marketing campaigns in high-performing countries.
+
 
 ## Contact
 
