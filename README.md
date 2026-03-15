@@ -3,45 +3,43 @@ Author: Maria Ilnitsa
 
 ## Project Overview
 
-This project analyzes marketing campaign performance and its relationship with customer behavior and sales outcomes in an e-commerce environment. Using datasets containing customer information, product catalog data, order transactions, and marketing campaigns, the analysis explores how marketing activities influence customer acquisition, purchasing patterns, and revenue generation.
+This project analyzes sales performance, customer purchasing behavior, and marketing campaign effectiveness in an e-commerce environment. The analysis uses multiple relational datasets containing information about customers, products, orders, and marketing campaigns.
 
-The goal of the project is to transform raw business data into actionable insights that help the company optimize marketing spend, improve customer targeting, and increase overall revenue.
+The goal of the project is to transform raw transactional and marketing data into actionable business insights that help improve revenue generation, customer retention, and marketing efficiency.
+
+By combining sales data with customer segmentation and campaign performance metrics, the analysis identifies key drivers of revenue and opportunities for improving marketing strategy.
 
 
 ## Business Problem
 
-An e-commerce company invests in multiple marketing campaigns but lacks clear visibility into how these campaigns influence sales performance and customer behavior.
+An e-commerce company collects large amounts of data related to customer purchases, product sales, and marketing campaigns. However, management lacks clear visibility into:
 
-The company wants to better understand:
+- which products and categories generate the most revenue
 
-- which marketing channels generate the most conversions
+- how customer behavior impacts sales performance
 
-- how marketing campaigns influence customer acquisition
+- which marketing channels are most effective at converting users into customers
 
-- which products and categories generate the highest revenue
+- how customer segments contribute to overall revenue
 
-- which customer segments drive the most sales
-
-Management requires data-driven insights to optimize marketing strategy and allocate marketing budgets more effectively.
+Without structured analysis, it is difficult to make data-driven decisions about marketing investments, product strategy, and customer retention.
 
 
 ## Project Objectives
 
-The main objectives of this analysis are:
+The main objectives of this analysis are to:
 
-- Identify sales performance trends
+- analyze overall sales performance and revenue distribution
 
-- Evaluate product and category revenue contribution
+- identify top-performing products and product categories
 
-- Analyze customer purchasing behavior and segmentation
+- examine customer purchasing behavior and repeat purchase patterns
 
-- Measure marketing campaign performance
+- evaluate marketing campaign performance using key marketing metrics
 
-- Calculate campaign conversion metrics
+- measure conversion efficiency across marketing channels
 
-- Identify high-value products and customer segments
-
-- Provide business recommendations for improving marketing effectiveness and revenue growth
+- identify opportunities to improve customer retention and marketing effectiveness
 
 
 ## Analysis Hypotheses
