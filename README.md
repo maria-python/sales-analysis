@@ -2,7 +2,7 @@
 Author: Maria Ilnitsa
 
 ## Project Overview
-
+ 
 This project analyzes sales performance, customer purchasing behavior, and marketing campaign effectiveness in an e-commerce environment. The analysis uses multiple relational datasets containing information about customers, products, orders, and marketing campaigns.
 
 The goal of the project is to transform raw transactional and marketing data into actionable business insights that help improve revenue generation, customer retention, and marketing efficiency.
